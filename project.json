@@ -1,0 +1,28 @@
+{
+  "funded":[
+    "National Cryptography Development Fund(MMJJ20170106): 云环境下虚拟私有计算安全的公钥密码体系, 7. 2017—6. 2020. (PI)",
+    "National Key Research and Development Program: Study on New Algorithma and Principles of Electronic Currency, 7. 2017—6. 2020. (PI in Beihang University)",
+    "National Natural Science Foundation of China (61672083): Research on Key Cryptographic Methods of Virtual Private Computing. Jan. 2017—Dec. 2020. (PI)",
+    "National Natural Science Foundation of China (61370190): Research on Formal Security Model of Virtual Private Storage and Key Cryptographic Technologies. Jan. 2014—Dec. 2017. (PI)",
+    "National Natural Science Foundation of China (61173154): Research on Formal Security Model and Key Technologies in Vehicular Networks. Jan. 2012—Dec. 2015. (PI)",
+    "National Natural Science Foundation of China (60970116): Research on Asymmetric Group Key Agreement Theory and Key Technologies. Jan. 2010—Dec. 2012. (PI)",
+    "National Natural Science Foundation of China (60970115): Research on Construction Theory of Rational Fraction Based Public Cryptosystems. Jan. 2010—Dec. 2012. (Co-holder)",
+    "Spanish Ministerio de Ciencia e Innovacion Project (TIN2009-11689): Peer-to-peer User-Private Information Retrieval (RIPUP). Oct. 2009—March 2011. (Co-holder)",
+    "Spanish Ministerio de Industria, Turismo y Comercio Project: eVerification, Verficación electrónica para sistemas de votación electrónica presencial. No. TSI-020100-2009-720. Oct .2009—March 2011. (Co-holder)",
+    "Research Infrastructure Block Grant (RIBG Pool 2): Fuzzy-based cryptography and its applications, Jan. 2007----Dec.2007, Australia. (Co-holder)",
+    "National Natural Science Foundation of China (Num: 60473027): Research on Information Security Technology in Electronic Auction Systems, Jan. 2004—Dec.2006. (Co-holder)"
+  ],
+  "mainResearcher":[
+    "National Natural Science Foundation of China (No. 61003214). “Research on key cryptographic technologies to conciliate security conflicts in VANET”（2011--2013）",
+    "Spanish Ministerio de Industria, Turismo y Comercio – MITYC.  “Cloud computing SECloud, investigación y desarrollo de una plataforma SEgura para aplicaciones (SeCloud TSI-020302-2010-153)”. 2010-Oct--2012-Sept.",
+    "Spanish ARES: Advanced REsearch on information Security and privacy project, Spain (2008--)",
+    "ARC Discovery Grant DP0557493 “ Short signatures: tools for securing digital transaction and their applications ” in Australia (2005--2007).",
+    "Project of National Natural Science Foundation of China (61003214): Research on Cryptographic Technologies Conciliating Security Conflicts in VANET. Jan. 2011—Dec. 2013.",
+    "Project of National Natural Science Foundation of China (No.60403007) “The study of Bilinear Pairings based Cryptography” (2005--2007).",
+    "China 863 project (Num: 2002AA143021)”Wide Band Wireless IP Networks Security Techniques” (2002--2005).",
+    "Project of National Confidential Communication Found (Num: J 6410130). “Research on Hyperelliptic Curve Public Key Cryptography” (2002--2004).",
+    "Administration of the Project of National Natural Science Foundation of China (Num: 69931010) “Research on Theory and Technology of Information Security in Electronic Commerce Systems” (2002—2004).",
+    "Project of National Natural Science Foundation of China (Num: 60073052) “Research on Theory and Technology of Anonymity Implementation in Information Systems” (2002—2004).",
+    "973 National Important Project of China (Num: G1999035801) “Research on Information and Network Security Systems” (2001—2003)."
+  ]
+}
