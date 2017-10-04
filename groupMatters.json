@@ -1,5 +1,5 @@
 {
-  "Activities": [
+  "Activities":[
     {
       "presenter": "Ou Wenhao",
       "subject": "Ring Signatures and Crypto-Currencies",
@@ -119,6 +119,11 @@
     }
   ],
   "cooperation":[
+    {
+      "intro":"Received her BS degree in communication engineering from Ocean University of China in 2003. She is now a master candidate of network security at Beihang University, China. Her research interests include network communication security, internet protocol security and applied cryptography. ",
+      "name":"Yunya Zhou",
+      "pic_url":"View/image/groupMatters/Cooperation/YunyaZhou.jpg"
+    },
     {
       "intro":"Received his BS degree in information security and MS degree in Cryptography from Southwest Jiaotong University, China, in 2007 and 2010, respectively. Currently, he is a Ph. D candidate of information security at Wuhan University, China. His research interests include cryptography, security proof and data privacy in cloud computing.",
       "name":"Hua Deng",
