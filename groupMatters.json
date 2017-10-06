@@ -1,5 +1,5 @@
 {
-  "Activities":[
+  "Activity": [
     {
       "presenter": "Ou Wenhao",
       "subject": "Ring Signatures and Crypto-Currencies",
@@ -118,86 +118,81 @@
       "speaker_url": "View/image/groupMatters/Activities/12/presenter.jpg"
     }
   ],
-  "cooperation":[
+  "Cooperation": [
     {
-      "intro":"Received her BS degree in communication engineering from Ocean University of China in 2003. She is now a master candidate of network security at Beihang University, China. Her research interests include network communication security, internet protocol security and applied cryptography. ",
-      "name":"Yunya Zhou",
-      "pic_url":"View/image/groupMatters/Cooperation/YunyaZhou.jpg"
+      "intro": "Received his BS degree in information security and MS degree in Cryptography from Southwest Jiaotong University, China, in 2007 and 2010, respectively. Currently, he is a Ph. D candidate of information security at Wuhan University, China. His research interests include cryptography, security proof and data privacy in cloud computing.",
+      "name": "Hua Deng",
+      "pic_url": "View/image/groupMatters/Cooperation/HuaDeng.jpg"
     },
     {
-      "intro":"Received his BS degree in information security and MS degree in Cryptography from Southwest Jiaotong University, China, in 2007 and 2010, respectively. Currently, he is a Ph. D candidate of information security at Wuhan University, China. His research interests include cryptography, security proof and data privacy in cloud computing.",
-      "name":"Hua Deng",
-      "pic_url":"View/image/groupMatters/Cooperation/HuaDeng.jpg"
+      "intro": "Has been a Professor at the School of Information Systems, Singapore Management University since 2004. Prior to this, he was Principal Scientist and Manager of Infocomm Security Department, Institute for Infocomm Research, Singapore. His research interests include data security and privacy, multimedia security, network and system security.  He has served on the editorial boards of many international journals including IEEE Transactions on Information Forensics and Security, IEEE Transactions on Dependable and Secure Computing, Journal of Computer Science and Technology (the Chinese Academy of Sciences) and International Journal of Information Security. He is currently the chair of the steering committee of the ACM Asia Conference on Computer and Communications Security (AsiaCCS). He received the University Outstanding Researcher Award from the National University of Singapore in 1999 and the Lee Kuan Yew Fellow for Research Excellence from the Singapore Management University in 2006. He was named Community Service Star and Showcased Senior Information Security Professional by (ISC)^2 under its Asia-Pacific Information Security Leadership Achievements program in 2010.",
+      "name": "Robert H. Deng",
+      "pic_url": "View/image/groupMatters/Cooperation/Robert Deng.jpg"
     },
     {
-      "intro":"Has been a Professor at the School of Information Systems, Singapore Management University since 2004. Prior to this, he was Principal Scientist and Manager of Infocomm Security Department, Institute for Infocomm Research, Singapore. His research interests include data security and privacy, multimedia security, network and system security.  He has served on the editorial boards of many international journals including IEEE Transactions on Information Forensics and Security, IEEE Transactions on Dependable and Secure Computing, Journal of Computer Science and Technology (the Chinese Academy of Sciences) and International Journal of Information Security. He is currently the chair of the steering committee of the ACM Asia Conference on Computer and Communications Security (AsiaCCS). He received the University Outstanding Researcher Award from the National University of Singapore in 1999 and the Lee Kuan Yew Fellow for Research Excellence from the Singapore Management University in 2006. He was named Community Service Star and Showcased Senior Information Security Professional by (ISC)^2 under its Asia-Pacific Information Security Leadership Achievements program in 2010. ",
-      "name":"Robert H. Deng",
-      "pic_url":"View/image/groupMatters/Cooperation/Robert Deng.jpg"
+      "intro": "Received the Ph.D. degree in control engineering from the Harbin Institute of Technology, China, in 1993, and the master\u0027s degree in computer science and software engineering from Monash University, Australia, in 2000. He was a Research Fellow with the Delft University of Technology, The Netherlands, from 1997 to 1998, and Melbourne University, Australia, from 1998 to 1999. He has been with Ruhr University, Bochum, Germany. He is currently a full Professor and Research Director of the Cyber Security Laboratory with the School of Engineering and Information Technology, University of New South Wales, Australia. He received the prestigious German Alexander von Humboldt Fellowship from Ruhr University from 1995 to 1996. His main research interest is in the field of cyber security, including biometrics security, where he has published many papers in high-quality conferences and journals, including the IEEE Transactions on pattern analysis and machine intelligence. He has received seven Australian Research Council (ARC) Grants, and serves at the prestigious Panel of Mathematics, Information and Computing Sciences and the ARC Excellence in Research for Australia Evaluation Committee. He has served on the Editorial Board of up to seven international journals including IEEE Transactions on Information Forensics and Security, and served as the Security Symposium Chair of the IEEE ICC and the IEEE Globecom.",
+      "name": "Jiankun Hu",
+      "pic_url": "View/image/groupMatters/Cooperation/JiankunHu.jpg"
     },
     {
-      "intro":"Received the Ph.D. degree in control engineering from the Harbin Institute of Technology, China, in 1993, and the master's degree in computer science and software engineering from Monash University, Australia, in 2000. He was a Research Fellow with the Delft University of Technology, The Netherlands, from 1997 to 1998, and Melbourne University, Australia, from 1998 to 1999. He has been with Ruhr University, Bochum, Germany. He is currently a full Professor and Research Director of the Cyber Security Laboratory with the School of Engineering and Information Technology, University of New South Wales, Australia. He received the prestigious German Alexander von Humboldt Fellowship from Ruhr University from 1995 to 1996. His main research interest is in the field of cyber security, including biometrics security, where he has published many papers in high-quality conferences and journals, including the IEEE Transactions on pattern analysis and machine intelligence. He has received seven Australian Research Council (ARC) Grants, and serves at the prestigious Panel of Mathematics, Information and Computing Sciences and the ARC Excellence in Research for Australia Evaluation Committee. He has served on the Editorial Board of up to seven international journals including IEEE Transactions on Information Forensics and Security, and served as the Security Symposium Chair of the IEEE ICC and the IEEE Globecom.",
-      "name":"Jiankun Hu",
-      "pic_url":"View/image/groupMatters/Cooperation/JiankunHu.jpg"
+      "intro": "Received his B.S. and M.S. on Mathematics from Northwest University, China in 1998 and 2000, respectively. He got his Ph.D degree in Cryptography from Xidian University in 2003. Currently, he works at Xidian University as a professor. His research interests include applied cryptography and cloud computing security. He has published over 100 research papers in refereed international conferences and journals. His work has been cited more than 3000 timesat Google Scholar. He is in the Editorial Board of Security and Communication Networks (SCN), Computing and Informatics (CAI), and International Journal of Embedded Systems (IJES) etc. He has served as the program/general chair or program committee member in over 30 international conferences.",
+      "name": "Xiaofeng Chen",
+      "pic_url": "View/image/groupMatters/Cooperation/XiaofengChen.jpg"
     },
     {
-      "intro":"Received his B.S. and M.S. on Mathematics from Northwest University, China in 1998 and 2000, respectively. He got his Ph.D degree in Cryptography from Xidian University in 2003. Currently, he works at Xidian University as a professor. His research interests include applied cryptography and cloud computing security. He has published over 100 research papers in refereed international conferences and journals. His work has been cited more than 3000 timesat Google Scholar. He is in the Editorial Board of Security and Communication Networks (SCN), Computing and Informatics (CAI), and International Journal of Embedded Systems (IJES) etc. He has served as the program/general chair or program committee member in over 30 international conferences.",
-      "name":"Xiaofeng Chen",
-      "pic_url":"View/image/groupMatters/Cooperation/XiaofengChen.jpg"
+      "intro": "Received his Ph.D. in communication engineering from Xidian University, China in 1998, and his B.S. and M.S. degrees in electronic engineering from Shandong University, China in 1985 and 1988. He is currently a professor and head of School of Electronic and Information Engineering of Beihang University. His research interests are the security of wireless and mobile communication network and computer network. He is a senior member of the Chinese Institute of Electronics and director of the Chinese Association for Cryptologic Research.",
+      "name": "Jianwei Liu",
+      "pic_url": "View/image/groupMatters/Cooperation/jianweiliu.jpg"
     },
     {
-      "intro":"Received his Ph.D. in communication engineering from Xidian University, China in 1998, and his B.S. and M.S. degrees in electronic engineering from Shandong University, China in 1985 and 1988. He is currently a professor and head of School of Electronic and Information Engineering of Beihang University. His research interests are the security of wireless and mobile communication network and computer network. He is a senior member of the Chinese Institute of Electronics and director of the Chinese Association for Cryptologic Research.",
-      "name":"Jianwei Liu",
-      "pic_url":"View/image/groupMatters/Cooperation/jianweiliu.jpg"
+      "intro": "Received B.S., M.S., and Ph.D. degrees in Electronic Engineering from Beihang University, Beijing, China in 1987, 1990, and 2001, respectively. He is currently a professor and vice president at the BUAA. He also serves as the Director of Communication, Navigation, Surveillance/Air Traffic Management (CNS/ATM) Labs, Civil Aviation Administration of China (CAAC). His key research areas include CNS/ATM, mobile networks and air/space/ground communication networks.",
+      "name": "Jun Zhang",
+      "pic_url": "View/image/groupMatters/Cooperation/JunZhang.jpg"
     },
     {
-      "intro":"Received B.S., M.S., and Ph.D. degrees in Electronic Engineering from Beihang University, Beijing, China in 1987, 1990, and 2001, respectively. He is currently a professor and vice president at the BUAA. He also serves as the Director of Communication, Navigation, Surveillance/Air Traffic Management (CNS/ATM) Labs, Civil Aviation Administration of China (CAAC). His key research areas include CNS/ATM, mobile networks and air/space/ground communication networks.",
-      "name":"Jun Zhang",
-      "pic_url":"View/image/groupMatters/Cooperation/JunZhang.jpg"
+      "intro": "Received his Ph.D in Computer Software and Theory from Tongji University. He is currently an associate professor in the School of Information Engineering at Hu zhou University, he is also a Postdoctoral in the institute of Cyber Systems and Control, Zhejiang University. His research interests including software reliability evaluation, system performance evaluation, neural network optimization, dependable computing and time series prediction.",
+      "name": "Jungang Lou",
+      "pic_url": "View/image/groupMatters/Cooperation/JungangLou.JPG"
     },
     {
-      "intro":"Received his Ph.D in Computer Software and Theory from Tongji University. He is currently an associate professor in the School of Information Engineering at Hu zhou University, he is also a Postdoctoral in the institute of Cyber Systems and Control, Zhejiang University. His research interests including software reliability evaluation, system performance evaluation, neural network optimization, dependable computing and time series prediction.",
-      "name":"Jungang Lou",
-      "pic_url":"View/image/groupMatters/Cooperation/JungangLou.JPG"
+      "intro": "Received the Ph.D. degree from the School of Computer Science and Software Engineering, University of Wollongong, Australia. He is currently a Professor with the School of Mathematics and Computer Science, Fujian Normal University, China, and the Co-Director of Fujian Provincial Key Laboratory of Network Security and Cryptology. His research interests include applied cryptography and network security. He has authored over 100 research papers in refereed international conferences and journals. His work has been cited more than 2900 times at Google Scholar (H-Index: 27). He is an associate editor of IEEE Transactions on Dependable and Secure Computing.",
+      "name": "Xinyi Huang",
+      "pic_url": "View/image/groupMatters/Cooperation/Xinyi_huang.jpg"
     },
     {
-      "intro":"Received the Ph.D. degree from the School of Computer Science and Software Engineering, University of Wollongong, Australia. He is currently a Professor with the School of Mathematics and Computer Science, Fujian Normal University, China, and the Co-Director of Fujian Provincial Key Laboratory of Network Security and Cryptology. His research interests include applied cryptography and network security. He has authored over 100 research papers in refereed international conferences and journals. His work has been cited more than 2900 times at Google Scholar (H-Index: 27). He is an associate editor of IEEE Transactions on Dependable and Secure Computing.",
-      "name":"Xinyi Huang",
-      "pic_url":"View/image/groupMatters/Cooperation/Xinyi_huang.jpg"
+      "intro": "As a Professor with the School of Computer Science and IT, RMIT University, Australia. His research interests include applied cryptography, computer and network security, mobile and wireless communication security, and privacy-preserving data mining.  He has published more than 150 research papers in international journals, such as IEEE Trans. Knowledge and Data Engineering, IEEE Trans. Wireless Communication, IEEE Trans. Dependable and Secure Computing, IEEE Trans. Circuit and Systems, IEEE Trans. Vehicular Technologies, IEEE Communication Letters, IEE Electronic Letters, and conference proceedings. He has ever undertaken program committee members for more than 20 international conferences. Recently, he has led a few of Australia Research Council (ARC) Discovery Projects.",
+      "name": "Xun Yi",
+      "pic_url": "View/image/groupMatters/Cooperation/XunYi.jpg"
     },
     {
-      "intro":"As a Professor with the School of Computer Science and IT, RMIT University, Australia. His research interests include applied cryptography, computer and network security, mobile and wireless communication security, and privacy-preserving data mining.  He has published more than 150 research papers in international journals, such as IEEE Trans. Knowledge and Data Engineering, IEEE Trans. Wireless Communication, IEEE Trans. Dependable and Secure Computing, IEEE Trans. Circuit and Systems, IEEE Trans. Vehicular Technologies, IEEE Communication Letters, IEE Electronic Letters, and conference proceedings. He has ever undertaken program committee members for more than 20 international conferences. Recently, he has led a few of Australia Research Council (ARC) Discovery Projects.",
-      "name":"Xun Yi",
-      "pic_url":"View/image/groupMatters/Cooperation/XunYi.jpg"
+      "intro": "As a professor in School of Mathematics, Shandong University P.R.China. She received her B.S. from Information Engineering University, Zhenzhou, P.R.China in 1982 and Ph.D. degree from School of Mathematics in Shandong University, P.R.China in 2004. Her research interests include computational number theory, information security, design and analysis of security about cryptologic protocols. She has co-authored 2 books and has published about 30 professional research papers. Prof. Qin is a senior member of Chinese Association for Cryptologic Research (CACR) as well as China Computer Federation (CCF).",
+      "name": "Jing Qin",
+      "pic_url": "View/image/groupMatters/Cooperation/JingQin.jpg"
     },
     {
-      "intro":"As a professor in School of Mathematics, Shandong University P.R.China. She received her B.S. from Information Engineering University, Zhenzhou, P.R.China in 1982 and Ph.D. degree from School of Mathematics in Shandong University, P.R.China in 2004. Her research interests include computational number theory, information security, design and analysis of security about cryptologic protocols. She has co-authored 2 books and has published about 30 professional research papers. Prof. Qin is a senior member of Chinese Association for Cryptologic Research (CACR) as well as China Computer Federation (CCF).",
-      "name":"Jing Qin",
-      "pic_url":"View/image/groupMatters/Cooperation/JingQin.jpg"
+      "intro": "Received the M.S. and the Ph.D. degrees in cryptology from Xidian University, Xi’an, China, in 2003 and 2005, respectively. He is currently a Professor at the School of Mathematics and Computational Science, Guilin University of Electronic Technology, Guilin, China. He is now a senior member of Chinese Association for Cryptologic Research (CACR). His current research interests include cryptography and network security.",
+      "name": "Ding Yong",
+      "pic_url": "View/image/groupMatters/Cooperation/YongDing.jpg"
     },
     {
-      "intro":"Received the M.S. and the Ph.D. degrees in cryptology from Xidian University, Xi’an, China, in 2003 and 2005, respectively. He is currently a Professor at the School of Mathematics and Computational Science, Guilin University of Electronic Technology, Guilin, China. He is now a senior member of Chinese Association for Cryptologic Research (CACR). His current research interests include cryptography and network security.",
-      "name":"Ding Yong",
-      "pic_url":"View/image/groupMatters/Cooperation/YongDing.jpg"
+      "intro": "Received his Bachelor from Peking University, Master and Ph.D. from Chinese Academy of Science. He is not now a professor of Renmin University of China and an adjunct professor of Institute of Information Engineering, Chinese Academy of Sciences. His research interests include information system security and operation system security. He has published over 100 publications in these areas.",
+      "name": "Wenchang Shi",
+      "pic_url": "View/image/groupMatters/Cooperation/WenchangShi.jpg"
     },
     {
-      "intro":"Received his Bachelor from Peking University, Master and Ph.D. from Chinese Academy of Science. He is not now a professor of Renmin University of China and an adjunct professor of Institute of Information Engineering, Chinese Academy of Sciences. His research interests include information system security and operation system security. He has published over 100 publications in these areas. ",
-      "name":"Wenchang Shi",
-      "pic_url":"View/image/groupMatters/Cooperation/WenchangShi.jpg"
+      "intro": "As a Professor with the Computer Science and Technology Department, Tongji University, Shanghai, China. He received his B.S. degree in Information Engineering and M.S. degree in Communication and Electronic System from Xdian University in 1993 and 1996, respectively.He received his Ph.D. degrees in Signal and Information Procesing from Beijing University of Posts and Telecommunications in 1999. Wu joined in Tongji University as an professor in 2010. He had been a Principal Scientist in Huawei and Broadcom before he joined Tongji. His research interests include Wireless Communication, Information Theory, and Signal Processing.",
+      "name": "Jun Wu",
+      "pic_url": "View/image/groupMatters/Cooperation/wujun.jpg"
     },
     {
-      "intro":"As a Professor with the Computer Science and Technology Department, Tongji University, Shanghai, China. He received his B.S. degree in Information Engineering and M.S. degree in Communication and Electronic System from Xdian University in 1993 and 1996, respectively. He received his Ph.D. degrees in Signal and Information Procesing from Beijing University of Posts and Telecommunications in 1999. Wu joined in Tongji University as an professor in 2010. He had been a Principal Scientist in Huawei and Broadcom before he joined Tongji. His research interests include Wireless Communication, Information Theory, and Signal Processing.",
-      "name":"Jun Wu",
-      "pic_url":"View/image/groupMatters/Cooperation/wujun.jpg"
+      "intro": "Received his doctor degree from Institute of Software Chinese Academy of Sciences. He had been with Tsinghua University as postdoctoral fellow and now with Renmin University of China as a professor. His research interests include security Analysis of software system, information security countermeasures and system software security mechanism. He has published tens of publications in these areas.",
+      "name": "Liang Bin",
+      "pic_url": "View/image/groupMatters/Cooperation/liangbin.jpg"
     },
     {
-      "intro":"Received his doctor degree from Institute of Software Chinese Academy of Sciences. He had been with Tsinghua University as postdoctoral fellow and now with Renmin University of China as a professor. His research interests include security Analysis of software system, information security countermeasures and system software security mechanism. He has published tens of publications in these areas.",
-      "name":"Liang Bin",
-      "pic_url":"View/image/groupMatters/Cooperation/梁彬.jpg"
-    },
-    {
-      "intro":"Received the Ph.D. degrees from the City University of Hong Kong, Hong Kong, and Wuhan University, Wuhan, China, under the joint Ph.D program, in 2014. He is currently a Research Fellow with the School of Information System, Singapore Management University. His research interests include cryptography and information security, in particular, cryptographic protocols, signature schemes and security in cloud computing.",
-      "name":"Yujue Wang",
-      "pic_url":"View/image/groupMatters/Cooperation/yjwang.jpg"
+      "intro": "Received the Ph.D. degrees from the City University of Hong Kong, Hong Kong, and Wuhan University, Wuhan, China, under the joint Ph.D program, in 2014. He is currently a Research Fellow with the School of Information System, Singapore Management University. His research interests include cryptography and information security, in particular, cryptographic protocols, signature schemes and security in cloud computing.",
+      "name": "Yujue Wang",
+      "pic_url": "View/image/groupMatters/Cooperation/yjwang.jpg"
     }
   ]
 }
